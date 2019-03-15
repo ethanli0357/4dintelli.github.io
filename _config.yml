@@ -96,3 +96,5 @@ service-worker: true
 
 
 
+
+theme: jekyll-theme-merlot
